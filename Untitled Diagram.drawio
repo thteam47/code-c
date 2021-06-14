@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T06:43:15.524Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" version="14.7.7" etag="gLv8SiMlq2rHfhyzJ93s" type="github"><diagram id="CGDHZwJazd9PedJxPtu1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-14T07:24:57.745Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="2a0e-bbZ7If8qC7z5QGC" version="14.7.7" type="github">
+  <diagram id="CGDHZwJazd9PedJxPtu1" name="Page-1">
+    <mxGraphModel dx="1657" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z0gmZ5akWbrpSe5yGIGP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry width="331" height="825" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0gmZ5akWbrpSe5yGIGP-10" value="&lt;h1&gt;&lt;span style=&quot;color: rgb(60 , 64 , 67) ; letter-spacing: 0.2px&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 28px&quot;&gt;Server Management&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="0.5" y="60" width="330" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0gmZ5akWbrpSe5yGIGP-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rounded=0;sketch=0;align=right;spacing=2;verticalAlign=middle;rotation=90;fontColor=#FF3333;labelBackgroundColor=none;labelBorderColor=#FF3333;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="284" y="14" width="18" height="37" as="geometry" />
+        </mxCell>
+        <UserObject label="Link" link="https://www.draw.io" id="Z0gmZ5akWbrpSe5yGIGP-29">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;rounded=0;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+            <mxGeometry x="0.5" y="138" width="329.5" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
